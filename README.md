@@ -1,5 +1,6 @@
 # 📊 Sales Analysis Dashboard – Amazon Products
 
+<img width="1373" height="647" alt="Pizza_Anlytics_Report" src="https://github.com/Satwik-rajpoot/Pizza-Sales-dashboard/blob/main/snip/Screenshot%202025-12-24%20035455.png">
 ## Overview
 This Power BI project provides a comprehensive analysis of Amazon product sales using dynamic time intelligence measures. The dashboard visualizes key performance indicators (KPIs), sales trends, product category breakdowns, and customer engagement metrics to support data-driven decision-making.
 
